@@ -1,2 +1,2 @@
- dapp that demonstrates how to mint a custom ERC20 token.
+ A dapp that demonstrates how to mint a custom ERC20 token.
  
